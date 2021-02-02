@@ -1,8 +1,0 @@
-.git
-mlruns
-outputs
-__pycache__
-.*
-~*
-*.swp
-*.pyc

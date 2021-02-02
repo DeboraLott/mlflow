@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/RepositoriosGitHub/mlflow/mlruns/0/f4fdd768974d43f4bed8b57b82a8e840/artifacts
+end_time: 1612302849182
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: f4fdd768974d43f4bed8b57b82a8e840
+run_uuid: f4fdd768974d43f4bed8b57b82a8e840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1612302849080
+status: 3
+tags: []
+user_id: debora.lott
